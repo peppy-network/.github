@@ -1,1 +1,3 @@
-# .github
+# Peppy
+
+Welcome to Peppy! 🎉
